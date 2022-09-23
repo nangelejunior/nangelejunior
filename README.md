@@ -1,4 +1,4 @@
-<h2 align="center">Olá! Meu nome é Neuclair, mas pode me chamar de Neucs.</h2>
+<h2 align="center">Olá! Meu nome é Neuclair, mas pode me chamar de Neucs ou Junior.</h2>
 
 <div align="center">
   <a href="https://github.com/nangelejunior">
